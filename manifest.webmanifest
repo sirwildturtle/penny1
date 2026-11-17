@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "Penny — Личные финансы и учёт трат",
+  "short_name": "Penny",
+  "description": "Визуальный учёт доходов, расходов, счетов, бюджетов и долгов",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F6F4EE",
+  "theme_color": "#1F6E58",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
