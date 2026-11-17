@@ -1,4 +1,4 @@
-const CACHE_NAME = 'penny-v2';
+const CACHE_NAME = 'penny-v3';
 const ASSETS = [
   './',
   './index.html',
